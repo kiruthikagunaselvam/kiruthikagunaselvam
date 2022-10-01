@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kiruthikagunaselvam
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning Automation Testing
+- 🌱 I’m currently busy learning something cool.
 - 📫 How to reach me kiruthikagunaselvam@gmail.com
 
 <!---
